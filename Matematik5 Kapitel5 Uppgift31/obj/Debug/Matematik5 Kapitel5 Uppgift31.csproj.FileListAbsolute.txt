@@ -1,0 +1,7 @@
+C:\Users\felix\source\repos\Matematik5 Kapitel5 Uppgift31\bin\Debug\Matematik5 Kapitel5 Uppgift31.exe.config
+C:\Users\felix\source\repos\Matematik5 Kapitel5 Uppgift31\bin\Debug\Matematik5 Kapitel5 Uppgift31.exe
+C:\Users\felix\source\repos\Matematik5 Kapitel5 Uppgift31\bin\Debug\Matematik5 Kapitel5 Uppgift31.pdb
+C:\Users\felix\source\repos\Matematik5 Kapitel5 Uppgift31\obj\Debug\Matematik5 Kapitel5 Uppgift31.csprojAssemblyReference.cache
+C:\Users\felix\source\repos\Matematik5 Kapitel5 Uppgift31\obj\Debug\Matematik5 Kapitel5 Uppgift31.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\repos\Matematik5 Kapitel5 Uppgift31\obj\Debug\Matematik5 Kapitel5 Uppgift31.exe
+C:\Users\felix\source\repos\Matematik5 Kapitel5 Uppgift31\obj\Debug\Matematik5 Kapitel5 Uppgift31.pdb
